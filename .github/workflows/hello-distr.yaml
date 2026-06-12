@@ -236,6 +236,7 @@ jobs:
           template-file: ${{ github.workspace }}/deploy/env.template
           link-template: "{{ .Env.HELLO_DISTR_PROTOCOL }}://{{ .Env.HELLO_DISTR_HOST }}"
           update-deployments: true
+          reuse-deployment-config: true
           resources: |
             [
               {
