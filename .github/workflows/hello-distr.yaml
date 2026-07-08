@@ -263,8 +263,6 @@ jobs:
         include:
           - DISTR_TOKEN_SECRET: DISTR_TOKEN
             DISTR_APPLICATION_ID_VAR: DISTR_APPLICATION_ID
-          - DISTR_TOKEN_SECRET: DISTR_TOKEN_PMIG
-            DISTR_APPLICATION_ID_VAR: DISTR_APPLICATION_ID_PMIG
     timeout-minutes: 5
     runs-on: ubuntu-latest
     steps:
