@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/subconscious-systems/hello-distr/compare/0.5.1...0.5.2) (2026-07-08)
+
+
+### Bug Fixes
+
+* fixing registry pointer to our artifact location ([838242b](https://github.com/subconscious-systems/hello-distr/commit/838242b2bd152cdb8c07c509cc0f327ac23b5481))
+
 ## [0.5.1](https://github.com/subconscious-systems/hello-distr/compare/0.5.0...0.5.1) (2026-07-08)
 
 
