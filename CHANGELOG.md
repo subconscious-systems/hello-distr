@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.5](https://github.com/subconscious-systems/hello-distr/compare/0.5.4...0.5.5) (2026-07-08)
+
+
+### Bug Fixes
+
+* latest yaml push ([561b43b](https://github.com/subconscious-systems/hello-distr/commit/561b43b69f49b74b67572fd582b5e94cf1eecbd6))
+
 ## [0.5.4](https://github.com/subconscious-systems/hello-distr/compare/0.5.3...0.5.4) (2026-07-08)
 
 
