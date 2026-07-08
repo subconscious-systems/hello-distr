@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/subconscious-systems/hello-distr/compare/0.5.0...0.5.1) (2026-07-08)
+
+
+### Bug Fixes
+
+* updating a display to be correct ([c99335f](https://github.com/subconscious-systems/hello-distr/commit/c99335f9ba2b3b08b2d2af3b33b566041e0b278f))
+
 ## [0.5.0](https://github.com/subconscious-systems/hello-distr/compare/0.4.6...0.5.0) (2026-07-08)
 
 
