@@ -1,6 +1,6 @@
 # Fork Required Changes
 
-This fork needs a few changes from the upstream `distr-sh/hello-distr` defaults before releases can build, publish, and deploy through Distr. Check the diff from this branch to upstream for full details. This doc provides a summary.
+This fork needs a few changes from the upstream `distr-sh/hello-distr` defaults before releases can build, publish, and deploy through Distr. The README gets you most of the way, but not all the way. Check the diff from this branch to upstream for full details. This doc provides a summary.
 
 ## Why These Changes Exist
 
